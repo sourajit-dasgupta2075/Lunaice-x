@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+uvicorn[standard]
+websockets
+sqlalchemy
+python-multipart
+rasterio
+geopandas
+fiona
+shapely
+pyproj
+numpy
+pandas
+scikit-learn
+xgboost
+networkx
